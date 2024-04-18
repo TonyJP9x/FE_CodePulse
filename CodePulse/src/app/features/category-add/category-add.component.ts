@@ -11,8 +11,8 @@ export class CategoryAddComponent {
   model:Category;
   constructor(){
    this.model = {
-    name:"",
-    urlHandle:""
+    name:"aa",
+    urlHandle:"aa"
    }
   }
   onFormSubmit(){
